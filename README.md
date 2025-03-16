@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# BusinessBot 🤖
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![BusinessBot Screenshots](https://github.com/user-attachments/assets/10cbb64e-178b-453a-8c70-8487cd1cc02e)
 
-## Available Scripts
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Version](https://img.shields.io/badge/version-1.0.0-orange)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## Overview 🌟
+**BusinessBot** is an AI-powered chatbot designed specifically for business data. It provides real-time insights, enhances customer engagement, and delivers intelligent, data-driven conversations.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features 🚀
+- **Advanced NLP** – Understands complex business queries with precision.  
+- **Custom Data Integration** – Seamlessly connects with your business data sources.  
+- **Real-time Analytics** – Delivers instant insights and actionable recommendations.  
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Pricing Plans 💰
 
-### `npm run build`
+| Plan            | Price (₹/mo) | Features                     | Users      | Support                  |
+|-----------------|--------------|------------------------------|------------|--------------------------|
+| **Starter**      | ₹149          | Basic Features               | 5          | 24/7 Support             |
+| **Professional** | ₹499          | Advanced Features            | 15         | Priority Support          |
+| **Enterprise**   | ₹899          | Unlimited Features           | Unlimited   | Dedicated Account Manager |
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Getting Started 🛠️
+To get started with **BusinessBot**, follow these steps:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-repo/businessbot.git
+    ```
+2. Open `index.html` in your web browser.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Screenshots 📸
+Here are some screenshots of BusinessBot in action:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Screenshot 2025-03-15 202234](https://github.com/user-attachments/assets/10cbb64e-178b-453a-8c70-8487cd1cc02e)
+![Screenshot 2025-03-15 202259](https://github.com/user-attachments/assets/07dbaab9-95b4-48f1-a60d-aa5a13e84f3b)
+![Screenshot 2025-03-15 202307](https://github.com/user-attachments/assets/d39b55a5-4e74-4f35-a9c4-df9b37e8a10b)
+![Screenshot 2025-03-15 202321](https://github.com/user-attachments/assets/7f3188bf-cf0a-4fe1-9026-2d79ddacbc51)
+![Screenshot 2025-03-15 202408](https://github.com/user-attachments/assets/f6b69461-f481-46dc-b6e9-c2a53c25c2f7)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Contact 📧
+For inquiries, please:  
+- Fill out the contact form on our website.  
+- Reach out via email at **[nilesh1234mete@gmail](mailto:nilesh1234mete@gmail)**.  
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## License 📜
+This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Note 📝
+This README has been updated to reflect the transition from an HTML/CSS version of the site to a React-based implementation.
